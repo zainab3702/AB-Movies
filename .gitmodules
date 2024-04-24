@@ -1,0 +1,6 @@
+[submodule "AB-Movies-Backend-main"]
+	path = AB-Movies-Backend-main
+	url = https://github.com/zainab3702/AB-Movies-Backend-main.git
+[submodule "AB-Movies-Frontend-main"]
+	path = AB-Movies-Frontend-main
+	url = https://github.com/zainab3702/AB-Movies-Frontend-main.git
