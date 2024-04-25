@@ -22,7 +22,7 @@ The setup includes cloning the repository, environment configuration, installing
 - For installing the frontend and backend repositories at once please follow the below command.
 
 ```bash
-    git clone --recurse-submodules https://github.com/Belalirshad/AB-Movies.git
+    git clone --recurse-submodules https://github.com/zainab3702/AB-Movies.git
 ```
 
 - Then follow the further instructions for each repository respectively
@@ -54,7 +54,7 @@ Instructions for setting up the local development environment, including prerequ
 
 Contributions are welcome for both the frontend and backend parts of the project. The contribution process includes forking the project, creating a feature branch, committing changes, pushing the branch, and opening a pull request.
 
-- **Backend Project Link**: [https://github.com/Belalirshad/AB-Movies-Backend.git](https://github.com/Belalirshad/AB-Movies-Backend.git)
-- **Frontend Project Link**: [https://github.com/Belalirshad/AB-Movies-Frontend.git](https://github.com/Belalirshad/AB-Movies-Frontend.git)
+- **Backend Project Link**: [https://github.com/zainab3702/AB-Movies-Backend-main.git](https://github.com/zainab3702/AB-Movies-Backend-main.git)
+- **Frontend Project Link**: [https://github.com/zainab3702/AB-Movies-Frontend-main.git](https://github.com/zainab3702/AB-Movies-Frontend-main.git)
 
 This combined README provides a consolidated overview of the Movies Project, covering both backend and frontend components, and guiding users and developers through the features, setup, and contribution process.
