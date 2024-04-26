@@ -4,7 +4,7 @@ Welcome to the Movies Project, a comprehensive solution for browsing, managing, 
 
 ## Preview
 
-To use the application, visit [https://ab-movies-frontend-2cta.onrender.com] and log in using your Google account to access extra features like reviews and bookmarks.
+To use the application, visit https://ab-movies-frontend-2cta.onrender.com and log in using your Google account to access extra features like reviews and bookmarks.
 
 
 ## Movies-Backend Service
