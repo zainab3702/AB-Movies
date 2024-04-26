@@ -2,6 +2,11 @@
 
 Welcome to the Movies Project, a comprehensive solution for browsing, managing, and tracking movies and TV shows. This project consists of two main components: `AB-Movies-Backend` and `AB-Movies-frontend`, meticulously crafted to provide a seamless user experience.
 
+## Preview
+
+To use the application, visit [https://ab-movies-frontend-2cta.onrender.com] and log in using your Google account to access extra features like reviews and bookmarks.
+
+
 ## Movies-Backend Service
 
 ### Introduction
